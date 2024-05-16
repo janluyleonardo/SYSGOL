@@ -1,0 +1,98 @@
+INSERT INTO `equipos` (`id`, `nombre`, `categoria`, `estado`, `created_at`, `updated_at`) VALUES (NULL, 'MASTERCOMBO', 'UNICA', '1', NULL, NULL), (NULL, 'LOS JUICIOSOS', 'UNICA', '1', NULL, NULL);
+
+1
+REAL AMISTAD
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+2
+LA TORCIDA
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+3
+REAL SOCIEDAD
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+4
+LA HERMANDAD
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+5
+EL GRAN COMBO
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+6
+CHENKOS FC
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+7
+MASTERCOMBO
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+8
+LOS JUICIOSOS
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+9
+LA FAMILIA
+UNICA
+1
+NULL
+NULL
+	
+Editar Editar
+Copiar Copiar
+Borrar Borrar
+10
+CLUB 529
+UNICA
+1
+NULL
+NULL
